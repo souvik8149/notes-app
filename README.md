@@ -22,7 +22,7 @@ All notes are stored in a local text file (`notes.txt`).
 5. Run: 
 
 ```bash
-`python notes_app.py`
+python notes_app.py
 ```
 
 ---
